@@ -58,14 +58,5 @@
         "weight": 75,
         "bmi": 31.22,
         "verdict": "Obese"
-    },
-    "P0011": {
-        "name": "Rohit Parmar",
-        "city": "Delhi",
-        "age": 19,
-        "gender": "male",
-        "height": 1.77,
-        "weight": 58.8,
-        "bmi": 19.0
     }
 }
